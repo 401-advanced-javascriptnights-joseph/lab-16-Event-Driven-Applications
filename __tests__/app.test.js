@@ -1,3 +1,9 @@
 'use strict';
 
-require('../app');
+const events = require('../app');
+
+describe('Events', () => {
+  it('wired up', () => {
+    
+  });
+});
