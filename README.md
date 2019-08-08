@@ -5,8 +5,8 @@
 ### Author: Joseph Hangarter
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-16-Event-Driven-Applications/pull/2)
+* [travis]([![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-16-Event-Driven-Applications.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-16-Event-Driven-Applications))
 
 #### Documentation
 * [jsdoc](http://xyz.com) (Server assignments)
