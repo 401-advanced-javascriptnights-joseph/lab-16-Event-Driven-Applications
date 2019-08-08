@@ -2,9 +2,9 @@
 
 const events = require('../events/events.js');
 
-events.on('create', payload => doLog('create', payload));
-events.on('delete', payload => doLog('delete', payload));
-events.on('update', payload => doLog('update', payload));
+events.on('error', payload => console.log('error'));
+events.on('uppercase', payload => console.log('text to uppercase and saved'));
+events.on('save', payload => doLog('save', payload));
 
 function doLog(action, payload) {
   console.log( action.toUpperCase(), payload );
